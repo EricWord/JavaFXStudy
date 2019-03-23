@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Fx01/Fx01.iml" filepath="$PROJECT_DIR$/Fx01/Fx01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fx02/Fx02.iml" filepath="$PROJECT_DIR$/Fx02/Fx02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fx03/Fx03.iml" filepath="$PROJECT_DIR$/Fx03/Fx03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fx04/Fx04.iml" filepath="$PROJECT_DIR$/Fx04/Fx04.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFXStudy.iml" filepath="$PROJECT_DIR$/JavaFXStudy.iml" />
     </modules>
   </component>
