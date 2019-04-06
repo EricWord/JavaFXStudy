@@ -1,5 +1,3 @@
-package com.eric.fx;
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -8,22 +6,19 @@ import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 /*
- *@description:窗口
+ *@description:主界面
  *@author:cuigs
  *@Email:cuigs@ti-net.com.cn
  *@Version:1.0
  *@Date:2019/4/6
  */
-public class DialogDemo extends Application {
-
+public class MainUI extends Application {
 
     public static void main(String[] args) {
         launch(args);
     }
     @Override
     public void start(Stage stage) throws Exception {
-
-
         Button bt1 = new Button("点击显示窗口");
         //绝对布局
         AnchorPane an = new AnchorPane();
