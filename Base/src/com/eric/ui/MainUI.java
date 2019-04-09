@@ -38,7 +38,7 @@ public class MainUI extends Application {
         stage.setTitle("基于在线学习的恶意Android应用检测系统");
         //设置左上角的图标
         //设置icon
-        stage.getIcons().add(new Image("/images/detectIcon.png"));
+//        stage.getIcons().add(new Image("/images/detectIcon.png"));
 
         //显示舞台
         stage.show();
